@@ -1,0 +1,2 @@
+# Implementacao-de-Indice-Baseado-em-Hash-Linear
+Implementação de Índice Baseado em Hashing Linear - Este repositório visa armazenar os arquivos implementados para o índice, este trabalho foi feito como parte da avaliação na disciplina da Banco de dados 2 do curso de Engenharia de Computação - 7º Período, 2º semestre de 2017. O Hashing Linear é uma técnica de indexação utilizada por SGBDs para organizar o acesso a registros de um Banco de Dados, O índice permite localizar rapidamente um registro mediante a busca por igualdade com utilização de uma chave de pesquisa. 
